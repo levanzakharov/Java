@@ -1,6 +1,5 @@
-package gau;
+package Gau;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
