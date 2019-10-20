@@ -10,8 +10,8 @@ public class Main1 extends TestStudent {
         student1.course = 3;
         Scanner scanner = new Scanner(System.in);
         int age;
-        age = scanner.nextline();
-        student1.SetAge(age);
+        //age = scanner.nextline();
+        //student1.SetAge(age);
         student1.printData();
 
         TestStudent student2 = new TestStudent();
