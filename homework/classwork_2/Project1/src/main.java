@@ -1,14 +1,14 @@
 public class main extends A {
     public static void main(String[] args) {
-//        A objA = new A();
-//        int[] ar = objA.Method1();
-//        objA.Method2(ar);
-//        objA.Method3(ar);
-//
-//        B objB = new B();
-//        int[] ar1 = objB.Method1();
-//        objB.Method2(ar1);
-//        objB.Method3(ar1);
+        A objA = new A();
+        int[] ar = objA.Method1();
+        objA.Method2(ar);
+        objA.Method3(ar);
+
+        B objB = new B();
+        int[] ar1 = objB.Method1();
+        objB.Method2(ar1);
+        objB.Method3(ar1);
 
         C objC = new C();
         int[] ar2= objC.Method1();

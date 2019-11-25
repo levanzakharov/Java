@@ -1,0 +1,6 @@
+BUSD = 1.77
+BEUR = 2.27
+BGBP = 2.895
+SUSD = 1.73
+SEUR = 2.23
+SGBP = 2.81
