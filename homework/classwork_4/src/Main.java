@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Main {
 
-    public static <Dav15> void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         //Dav1 objDav1 = new Dav1();
         //Dav2 objDav2 = new Dav2();
         //Dav3 objDav3 = new Dav3();
