@@ -1,0 +1,34 @@
+IdCount = 4
+
+Id = 1
+Language = ge
+Parameters = p-1-s-5-7-w-7-9-l-7-9
+text = ჟცტფსზპონ ბგნცშჟდ სუღვკხშჩ ტცგღთქმ ზშოჰსდნოდ ხკნმგფღჯ ეორყზყხდ ფიცნმვნა     ქვნცუიიპ წჯტყღცს ჟჰატძშსხ შკპმოქი ტოკამშრ წხხცბლზწჭ ლწხნგეასპ შბცრჩდცუ     ესშტპქღჩ ჯტცუმწფთ კჟშფემჩმ რაქქბნწკწ ჰნვვკეკ შღსჩპდლძ ბზცპჟდწ     გწოქღკხე ტხჟზფჟპგ ფარსძამზ ვმჩჯჯყსნწ ციფხტჯი ხდეჯჭწგწ წშითლჭჰთკ იგფბლვუბც ცუუნცაჩ     სყტზლწმდ მქზტჟგქბ ტფუქლხთი ჭხჰკყვჰე ნძჯჰჟთკ სჩხსჩმთთ სწრისზსჭჰ ცკჟვოჯღწუ წბჰცღხმე     ჩნჯფშჟშ ლფძჟჰნუთჟ ნიქჭშნმნ დბუდჟნბჩქ სდაჭფშუტწ რკჩტნდო ბკცხნმკ     ყზთზზქლჩ აეჰთიჟხნ ზდყდჯიდ გქჩზცსჰღჩ ძკიჩჰცპქჟ ზსთლთყელ ვნდვწლღიჰ მონნკოე     
+
+END
+
+
+
+
+
+Id = 2
+Language = ru
+Parameters = p-1-s-5-7-w-7-9-l-7-9
+text = ШозиЗЮцИ иЫНЬУтЧМ ГЦщхЦнпК ЩДЬЩтьжщ оЬБЯэЯаЮ ШНхФЖоПд ЙтеЭчшац БцбЭбИКЬЩ эЗжЙСиУД     ОфОружр вРСДтАмЮа йШтяиФЬъП дЙюькЦОя ьтШГтНХУЯ ЧжиЖЪнъби ивзЬоэаЫф ПпФХчдя     нѐФКЛйьо жОМЧРОов ЬцЧгпанГЖ ашЛшгМСьг СчяакЫЛя ЕнОяЫЭОдХ ефжОУпЮгя ИхФццдъа     ОНБЕйзахА твЭсЯэс ДьаВъКвЭ кЛюоКШдпй уыфПйФшпФ НЬАЛПЗьм рСмтхтб     ЬгЗнМЧсАЪ ЬкбзЧВнДц шУЖАОЖяЬ ЧИкИйнН ФЛыдчЛМХЭ уТонрСТЛ фщыЩЦхцн шЦЫТЮЦЙ     УаоьШЖкб ьЪЯЬЙон ьКѐЖгЭк ЧНкОДйчЛю РглЩЬйЭц йаъИДжМИ яреааДРъ чцПсГйГч     мчпйфРлх дФдЬПэС кПѐеуСН ЙьНГНМАПЦ ГЫъРоЮР ъшЫЙтыБН щпЖщъЕча шбЫдПЕьО     яЖбзЫЖФуЫ сдяуедЩ жЦшЕЦеЖс ЪпяйФуЫДо иИЯриСДФТ ДщЮоыеЬМ вЕрБщкыжЙ хлцДеРЪ     
+
+END
+
+
+
+
+
+Id = 3
+Language = en
+Parameters = p-3-s-5-7-w-7-9-l-7-9
+text = rQJeVicjH ovawvHbA iObAqoj XJilCrbTp mhEjSQVpw SVAuVyZF CidkVmSd LThIIeNbd ZWllomob     IjbirDmpD tQLDbGCC uaWeWbz rgnrnTxGo nmyoLHr ADIZXNzq qdhvEoqz XALXNEzua rDUNFbF     rgwyBMx EiVrSzqp ghMaegkP OAHsHCZAL nEzXyTvne hvCjNkUx gZqwgqM     fnYWhxu QTAThek AHHeUouE LbaENKvB qPPQbOfFF URMUEUty BDODKhNp YKLnTjOJ     SVEOtxIY RzlqcMU wUixtvB dwXVzSMV pVSsJBLyp HZjeimTc maHFfClz qhwCZwb     kUwXPEl NgjKhWq ZdvwmzJ SJhjNvRTY SnmiqwV kSrMHEydA pkafDqZ     PqWAQzXkQ inYooalP vZSmzdY ONYEUbZLe SQbLZloCd AfljEtGx NMQxRydT DPQNBRUg     LgpEHXUP dAJrlena qHrEReZY gzxtbXU HdnnpYN YsZtFddRV zRohAtJu rZfrfbI     
+
+OmUcqgMko lAOlpYXH TgWaRyrON qnwnbZesK NGzAAdvpG gaOmzizDy OksLLcw     IpnpDcy urqjAJPE FCxoCkQz ZcATDzEQ dIAxMXD Ehznhky OFxSQQX     QETUNtqZL ybRBjQgQ cSqAGuV BUajaZmsO JmuMVvl wGhTCfv wHSQTWkY HBTazPt     aiDUHrR RjtIxMmN muifHeqh LCcrsxEHD tqcIfYM TXpgUmXNr WBBnTdIwr YQFHBvRt     yOUVHyz RZXQcwUh pYYMzhn YcLbFopPr WUEEcHtIN ARcGxnRY zYyQFlnu vnpGxmOFW LQkSpMuf     OwxGASJi DCuHJwT aWgiiaEsD BJrhUOo QeWEFnmZi uGExofOh ddtUrxM     pvBfODoFa AzZjmNlOZ VEFhoIC LwuQPuBs oqImlLav IkkPqDc wcxtAPzB znZayOgm     vzcErvu qerVkmZ qMybFYNy OIEQbFDDp GmwJLKNmd SQcZrMZk KuQWBRy     
+
+PCZSrCf kAiLYsZt UtHgNBfVo fUkQtEXd qdYPFGh MiDrIQaO jSkETAwb GPNpyLQA     hAxCcPiav nGxqFiYg gcMmTwLSf NFyLfkaj MkzNEZUe TKqbWLZD duklEwFo DgClHFJw     FRjCUzLLH JCQEcYrd YpsYHfL boQKLzHFE GhFDNNOvF DqaUXdC PHdtwfz     NxoacdCBJ bTrtgDbzi VExZcGYOw UFjfsHJ yfSWOsT luZfeddv TpcvqNCsd utJmqBD     lstoMqy epGbGoc qVYMcnA uoUeRblo obGehrTn kkYgwfQr cQqepwJz FfbNupeFC PweEuaZi     jjVQnbNw zAZUGDkCk UyVaVdm PmUhvwss SlSoenymY CpmAPVEa uKNCGxL     oueipsGL VwZqvKdT plZtfkI PUubJHc WNnNrEow KcnKRmLK Vfhqxux     
+
+END
