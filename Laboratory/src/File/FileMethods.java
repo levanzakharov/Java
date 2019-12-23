@@ -62,18 +62,18 @@ public class FileMethods {
         }
     }
 
-    public void ReadFile(){
+    private void ReadFile(){
         try {
             BufferedReader buffread = new BufferedReader(new FileReader(path));
             String line = buffread.readLine();
-            IdCount = Integer.parseInt(HelpMethods.SplitString(line, " = ").get(1).toString());
+            IdCount = Integer.parseInt( HelpMethods.SplitString(line, " = ").get(1).toString());
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
     }
 
-    public void ModifyFile(String text,int value) {
+    private void ModifyFile(String text, int value) {
         try {
             ArrayList<String> fileContent = new ArrayList<String>(Files.readAllLines(Paths.get(path), StandardCharsets.UTF_8));
 
@@ -83,6 +83,7 @@ public class FileMethods {
                     break;
                 }
             }
+
             Files.write(Paths.get(path), fileContent, StandardCharsets.UTF_8);
             System.out.println("IdCount changed");
         } catch (IOException e) {

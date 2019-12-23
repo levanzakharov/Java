@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class main {
     public static void main(String[] args) {
         A objA = new A();
+
         //int[] ar = objA.Method1();
         int[] ar = objA.Method2();
 

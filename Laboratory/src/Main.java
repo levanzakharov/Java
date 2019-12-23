@@ -2,6 +2,7 @@ import File.FileMethods;
 import GenerateText.GenerateText;
 import UserConsole.UserConsole;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 public class Main {

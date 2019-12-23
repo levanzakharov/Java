@@ -24,11 +24,11 @@ public class HelpMethods {
         return text.matches("[0-9]+");
     }
 
-    public static int RandomInt(int From, int To){
+    public static int RandomInt(int From, int To)
+    {
         Random r = new Random();
         return r.nextInt((Math.max(From,To) - Math.min(From,To)) + 1) + Math.min(From,To);
     }
-
 
 
 

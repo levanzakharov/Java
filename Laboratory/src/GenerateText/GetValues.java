@@ -39,14 +39,17 @@ public class GetValues implements GetValuesInterface {
     @Override
     public Boolean checkValuesFromParameter(ArrayList Values, String cvladi, int i) {
         boolean check = false;
-        if ((Values.indexOf(cvladi)+i) <= Values.size()-1){
-            check = HelpMethods.isNumber(Values.get(Values.indexOf(cvladi) + i).toString());
+
+        if (( Values.indexOf(cvladi)+i) <= Values.size()-1){
+            check = HelpMethods.isNumber( Values.get( Values.indexOf(cvladi) + i).toString() );
         }
+
         return check;
     }
 
     @Override
     public int[] GetValuesFromParameter(ArrayList Values,String cvladi) {
+
         if (Values.contains(cvladi) & checkValuesFromParameter(Values,cvladi,1) & checkValuesFromParameter(Values,cvladi,2) ){
             int a = Integer.parseInt( Values.get( Values.indexOf(cvladi)+1 ).toString() );
             int b = Integer.parseInt( Values.get( Values.indexOf(cvladi)+2 ).toString() );
@@ -73,6 +76,7 @@ public class GetValues implements GetValuesInterface {
             From = 5;
             To = 10;
         }
+        System.out.println(Values);
         return new int[]{From,To};
     }
 

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class B {
+public class B{
     private double[] m = new double[12];
 
     public double[] Method1() {

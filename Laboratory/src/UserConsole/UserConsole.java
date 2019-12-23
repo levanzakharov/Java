@@ -8,7 +8,7 @@ public class UserConsole{
 
     public static void StartText(){
         System.out.println("\nWelcome, This is Text Generator, Please Read how To Use It");
-        System.out.print("Input language: en/ge/ru(Please Enter only one of them)”\n" +
+        System.out.println("Input language: en/ge/ru(Please Enter only one of them)”\n" +
                 "Input parameters: p-2-s-5-7-w-7-9-l-7-9\n(p - paragraph, s - sentence(5-7 from 5 to 7 sentences in paragraph), w - word(7-9 from 7 to 9 words in sentence), l - letter(7-9 from 7 to 9 letters in word))\n\n");
     }
 
